@@ -1,0 +1,5 @@
+const PRIMARY_COLOR = '#77b1a9';
+const SECONDARY_COLOR = '#f6a168';
+const TERTIARY_COLOR = '#dbc4b6';
+const QUATERNARY_COLOR = '#97a9f5';
+const BACKGROUND_COLOR = '#000000';
